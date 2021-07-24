@@ -1,0 +1,8 @@
+type=square name=square1 color=yellow position=(150,50) length=40
+type=circle name=circle2 radius=15 color=blue position=(350,400)
+type=oval name=oval1 position= color= radius1= radius2=
+type=square name=square2 color=yellow position= length=40
+type=oval name=oval2 position= color= radius1=123 radius2=44
+type=rectangle name=r2 color=green position= length=60 height=90
+type=circle name= radius= color=red position=
+type=rectangle name=rect1 color= position=(850,850) length= height=
